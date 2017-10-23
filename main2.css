@@ -1,0 +1,143 @@
+.contenedor1{
+    background:	#FFD700 ;
+    border:1px solid black;
+    clear: both;
+    overflow: hidden;
+    height: 50px;
+    width: 500px;
+    position: relative;
+    left: 250px
+}
+
+.texto1{
+  font-family: serif;
+  font-size: 20px;
+  color: black;
+  position: relative;
+  top:-5px;
+  left: 70px;
+}
+
+.contenedor2{
+  background:	white ;
+  border:1px solid black;
+  overflow: hidden;
+  height: 500px;
+  width: 165px;
+  float: left;
+  position: relative;
+  left: 250px;
+}
+
+h3{
+  text-align: center;
+  font-family: serif;
+  font-size: 20px;
+  color:black;
+  position: relative;
+  top: -20px;
+
+}
+.texto2{
+  font-family: serif;
+  font-size: 15px;
+  color: black;
+  padding: 25px;
+  text-align: justify;
+
+}
+
+.antes{
+ position: absolute;
+ left: 10px ;
+ height:150px;
+ width:150px ;
+}
+
+.contenedor3{
+  background:	white ;
+  border:1px solid black;
+  overflow: hidden;
+  height: 500px;
+  width: 166px;
+  float: left;
+  position: relative;
+  left: 250px;
+}
+
+h2{
+font-family: sans-serif;
+font-size: 20px;
+color: black;
+text-align: center;
+position: relative;
+top: -20px;
+
+}
+.texto3{
+  font-family: serif;
+  font-size: 15px;
+  text-align: justify;
+  color: black;
+  padding: 25px;
+  position: relative;
+  top: 40px;
+}
+
+.contenedor4{
+  background:	white ;
+  border:1px solid black;
+  overflow: hidden;
+  height: 500px;
+  width: 165px;
+  float: left;
+  position: relative;
+  left: 250px;
+}
+
+.texto4{
+  font-family: serif;
+  font-size: 15px;
+  text-align: justify;
+  color: black;
+  padding: 25px;
+  position: relative;
+  top: 5px;
+}
+
+.ahora{
+ position: absolute;
+ left: 10px ;
+ height:150px;
+ width:150px ;
+}
+
+.contenedor5{
+  background:	#FFD700 ;
+  border:1px solid black;
+  clear: both;
+  overflow: hidden;
+  height: 30px;
+  width: 500px;
+  position: relative;
+  left: 250px
+}
+
+.texto5{
+  font-family: serif;
+  font-weight: bold;
+  font-size: 15px;
+  color: black;
+  position: relative;
+  top:-5px;
+  left: 100px;
+}
+.info{
+  font-family: serif;
+  font-weight: bold;
+  font-size: 15px;
+  color: blue;
+  position: relative;
+  top:-1px;
+  left: 1px;
+}

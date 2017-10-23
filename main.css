@@ -1,0 +1,95 @@
+/* creando base*/
+.base-cancha{
+  background-color:	#66CDAA ;
+  width: 1252px;
+  height: 649px;
+  margin: 1px;
+  position: absolute;
+  top: 5px;
+  border: 4px solid black;
+}
+
+.borde-cancha{
+  background-color:#66CDAA  ;
+  width: 1200px;
+  height: 600px;
+  margin: 1px;
+  position: absolute;
+  top:32px;
+  right: 35px;
+  border: 4px solid white;
+
+}
+
+.arco-1{
+  background-color:#66CDAA  ;
+  width: 150px;
+  height: 300px;
+  margin: 1px;
+  position: absolute;
+  top:160px;
+  right: 35px;
+  border: 4px solid white;
+}
+
+.arco-2{
+  background-color:#66CDAA  ;
+  width: 150px;
+  height: 300px;
+  margin: 1px;
+  position: absolute;
+  top:160px;
+  left: 35px;
+  border: 4px solid white;
+}
+
+.circulo{
+  background-color:#66CDAA;
+    height:300px;
+    width: 300px;
+    -moz-border-radius: 80%;
+    -webkit-border-radius: 80%;
+    border-radius: 80%;
+    position: absolute;
+    top: 160px;
+    left: 450px;
+    border: 4px solid white;
+}
+
+.pelota-1{
+  background-color:white;
+    height:30px;
+    width: 30px;
+    -moz-border-radius: 80%;
+    -webkit-border-radius: 80%;
+    border-radius: 80%;
+    position: absolute;
+    top: 170px;
+    left: 160px;
+    border: 4px solid white;
+}
+.pelota-2{
+  background-color:white;
+    height:30px;
+    width: 30px;
+    -moz-border-radius: 80%;
+    -webkit-border-radius: 80%;
+    border-radius: 80%;
+    position: absolute;
+    top: 80px;
+    left: 600px;
+    border: 4px solid white
+  }
+
+  .pelota-3{
+    background-color:white;
+      height:30px;
+      width: 30px;
+      -moz-border-radius: 80%;
+      -webkit-border-radius: 80%;
+      border-radius: 80%;
+      position: absolute;
+      top: 410px;
+      left: 1040px;
+      border: 4px solid white
+    }
